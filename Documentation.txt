@@ -1,0 +1,39 @@
+Exception(s):
+*************
+	
+	Game_End():
+		This Exception Is Raised When The Current Game Playing
+		By The User Comes To An End(Either X Wins or O Wins or Draw).
+	*********************************************************************
+
+Functions:
+**********
+	
+	Available_Pos():
+		This Function Returns An List Of All The Available Positions
+		Which Are Not In Use.
+	*********************************************************************
+
+	Computer_Play():
+		This Function Will Make The Computer Click Randomly Amongst The
+		Button Which Are Available To Click.
+	***********************************************************************
+
+	Check_For_Game_Result():
+		This Function Will Find The Status Of The Game By Checking Each
+		Row And Column Along With The Diagnols And Returns The Status In
+		The Integral Form.
+		1 - X Won, 2 - O Won, 3 - Draw And 4 - Continue.
+	************************************************************************
+
+	Victory_Message(code):
+		This Message Will Display The Game Result According To The code.
+		1 - X Won, 2 - O Won And 3 - Draw.
+	************************************************************************
+
+	Display_Message(code):
+		This Message Will Display The Instruction For The User According
+		To The Code. 1 - Player 1 Chance, 2 - Player 2, 3 - Computer Chance
+		And 4 - Your Chance.
+	***************************************************************************
+				
