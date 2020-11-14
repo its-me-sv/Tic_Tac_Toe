@@ -12,10 +12,10 @@
 		<li>Multiple Games Can Be Played At The Same Time</li>
 </ol><hr>
 <h3 id="glry">Gallery</h3>
-<img src="https://github.com/its-me-sv/Tic_Tac_Toe/blob/master/Snips/1.PNG">
-<img src="https://github.com/its-me-sv/Tic_Tac_Toe/blob/master/Snips/2.PNG">
-<img src="https://github.com/its-me-sv/Tic_Tac_Toe/blob/master/Snips/3.PNG">
-<img src="https://github.com/its-me-sv/Tic_Tac_Toe/blob/master/Snips/4.PNG">
+<img src="1.PNG">
+<img src="2.PNG">
+<img src="3.PNG">
+<img src="4.PNG">
 <hr>
 <h3 id="docs">Documentation</h3>
 The File ("Documentation.txt") Includes The Documentation For The Following:<br>
