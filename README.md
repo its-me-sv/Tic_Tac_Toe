@@ -25,7 +25,8 @@ The File ("Documentation.txt") Includes The Documentation For The Following:<br>
 </ul><hr>
 <h3 id="downloads">Downloads</h3>
 <a href="Snips.rar">Download Gallery</a><br>
-<a href="Documentation.txt">Download The Complete Documentation</a><br>
+<a href="Standalone_Executable.exe">Download Standalone Executable</a><br>
+<a href="Documentation.txt">Download Complete Documentation</a><br>
 <a href="tic_tac_toe.py">Download tic_tac_toe.py [main]</a><br>
 <a href="t3.rar">Download Complete Source Code [main, module, resources]</a><br>
 <hr>
